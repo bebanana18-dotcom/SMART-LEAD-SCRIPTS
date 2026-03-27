@@ -1,3 +1,8 @@
+# first charector capital
+```excel
+=ARRAYFORMULA(IF(B2:B="","",PROPER(B2:B)))
+```
+
 ## Google Sheets – Normalize last word to LLC / LTD (case-insensitive)
 
 These formulas fix company names where the last word is `llc` or `ltd`
