@@ -23,6 +23,7 @@ BUSINESS_TERMS = (
     "reach",
     "agency",
     "funnel",
+    "social",
 )
 
 COMMON_CHUNKS = {
