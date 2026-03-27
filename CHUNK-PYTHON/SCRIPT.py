@@ -17,6 +17,7 @@ BUSINESS_TERMS = (
     "consulting",
     "creations",
     "strategy",
+    "strategies",
     "digital",
     "advertising",
     "reach",
