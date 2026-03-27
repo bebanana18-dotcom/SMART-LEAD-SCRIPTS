@@ -26,6 +26,13 @@ IF(REGEXMATCH(B2:B,"(?i)\s+llc$"),
 REGEXREPLACE(B2:B,"(?i)\s+llc$"," LLC"),
 B2:B)))
 ```
+```excel
+=ARRAYFORMULA(
+IF(H2:H="","",
+IF(REGEXMATCH(H2:H,"(?i)\s+llc$"),
+REGEXREPLACE(H2:H,"(?i)\s+llc$"," LLC"),
+H2:H)))
+```
 
 **Explanation**
 
@@ -53,6 +60,13 @@ IF(B2:B="","",
 IF(REGEXMATCH(B2:B,"(?i)\s+ltd$"),
 REGEXREPLACE(B2:B,"(?i)\s+ltd$"," LTD"),
 B2:B)))
+```
+```excel
+=ARRAYFORMULA(
+IF(I2:I="","",
+IF(REGEXMATCH(I2:I,"(?i)\s+ltd$"),
+REGEXREPLACE(I2:I,"(?i)\s+ltd$"," LTD"),
+I2:I)))
 ```
 
 **Explanation**
