@@ -19,6 +19,7 @@ BUSINESS_TERMS = (
     "strategy",
     "digital",
     "advertising",
+    "reach",
 )
 
 COMMON_CHUNKS = {
