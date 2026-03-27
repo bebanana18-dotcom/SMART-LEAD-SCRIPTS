@@ -14,6 +14,8 @@ BUSINESS_TERMS = (
     "automation",
     "media",
     "leads",
+    "consulting",
+    "creations",
 )
 
 COMMON_CHUNKS = {
