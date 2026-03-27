@@ -25,6 +25,7 @@ BUSINESS_TERMS = (
     "funnel",
     "social",
     "systems",
+    "networks",
 )
 
 COMMON_CHUNKS = {
