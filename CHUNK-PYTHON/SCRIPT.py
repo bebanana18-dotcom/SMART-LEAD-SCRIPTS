@@ -13,6 +13,7 @@ BUSINESS_TERMS = (
     "marketing",
     "automation",
     "media",
+    "leads",
 )
 
 COMMON_CHUNKS = {
