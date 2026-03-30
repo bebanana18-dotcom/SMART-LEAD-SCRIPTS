@@ -26,6 +26,7 @@ BUSINESS_TERMS = (
     "social",
     "systems",
     "networks",
+    "partners".
 )
 
 COMMON_CHUNKS = {
